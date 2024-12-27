@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (gtest.vcxproj, test_utmatrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  sample_matrix.cpp
+C:\Users\serge\source\repos\mp2-lab2-matrix\include\tmatrix.h(295,27): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "../samples/sample_matrix.cpp")
+  C:\Users\serge\source\repos\mp2-lab2-matrix\include\tmatrix.h(295,27):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\mp2-lab2-matrix\samples\sample_matrix.cpp(13,23):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "TDynamicMatrix<int>"
+  	C:\Users\serge\source\repos\mp2-lab2-matrix\include\tmatrix.h(293,21):
+  	во время компиляции функции-члена класс шаблон "std::ostream &operator <<(std::ostream &,const TDynamicMatrix<int> &)"
+  		C:\Users\serge\source\repos\mp2-lab2-matrix\samples\sample_matrix.cpp(26,38):
+  		см. первую ссылку на "operator <<" в "main"
+  
+C:\Users\serge\source\repos\mp2-lab2-matrix\include\tmatrix.h(296,31): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "../samples/sample_matrix.cpp")
+  
+C:\Users\serge\source\repos\mp2-lab2-matrix\include\tmatrix.h(160,27): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "../samples/sample_matrix.cpp")
+  C:\Users\serge\source\repos\mp2-lab2-matrix\include\tmatrix.h(160,27):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\mp2-lab2-matrix\samples\sample_matrix.cpp(22,10):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "TDynamicVector<T>"
+          with
+          [
+              T=int
+          ]
+  	C:\Users\serge\source\repos\mp2-lab2-matrix\include\tmatrix.h(155,20):
+  	во время компиляции функции-члена класс шаблон "TDynamicVector<T> TDynamicVector<T>::operator +(const TDynamicVector<T> &)"
+          with
+          [
+              T=int
+          ]
+  		C:\Users\serge\source\repos\mp2-lab2-matrix\include\tmatrix.h(262,26):
+  		см. первую ссылку на "TDynamicVector<T>::operator +" в "TDynamicMatrix<int>::operator +"
+          with
+          [
+              T=int
+          ]
+  		C:\Users\serge\source\repos\mp2-lab2-matrix\samples\sample_matrix.cpp(25,5):
+  		см. первую ссылку на "TDynamicMatrix<int>::operator +" в "main"
+  
+  sample_utmatrix.vcxproj -> C:\Users\serge\source\repos\mp2-lab2-matrix\sln\Debug\sample_utmatrix.exe

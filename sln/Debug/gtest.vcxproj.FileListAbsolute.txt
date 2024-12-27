@@ -1,0 +1,3 @@
+C:\Users\serge\source\repos\mp2-lab2-matrix\sln\Debug\gtest.lib
+C:\Users\serge\source\repos\Retr\sln\Debug\gtest.lib
+C:\Users\serge\source\repos\Trans\sln\Debug\gtest.lib

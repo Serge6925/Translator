@@ -1,0 +1,386 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (gtest.vcxproj, sample_utmatrix.vcxproj, test_utmatrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  test_main.cpp
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9690,34): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9695,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9700,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9705,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9710,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9715,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9722,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9729,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9736,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9743,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9751,18): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(13778,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(13778,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(13777,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator2"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(13893,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(13893,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(13892,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator3"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14025,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14025,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14024,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator4"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14176,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14176,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14175,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator5"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14344,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14344,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14343,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator6"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14530,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14530,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14529,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator7"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14733,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14733,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14732,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator8"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14955,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14955,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14954,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator9"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15194,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15194,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15193,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator10"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15459,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15459,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15454,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder2"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15481,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15481,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15475,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder3"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15506,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15506,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15500,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder4"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15533,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15533,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15527,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder5"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15564,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15564,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15556,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder6"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15597,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15597,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15589,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder7"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15635,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15635,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15626,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder8"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15676,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15676,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15666,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder9"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15720,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15720,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15710,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder10"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(10020,30): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_main.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(10020,30):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(9691,3):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void testing::internal::PrintTupleTo<std::tuple<>>(const T &,std::ostream *)"
+          with
+          [
+              T=std::tuple<>
+          ]
+  
+  test_retr.cpp
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9690,34): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9695,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9700,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9705,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9710,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9715,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9722,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9729,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9736,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9743,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(9751,18): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(13778,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(13778,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(13777,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator2"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(13893,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(13893,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(13892,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator3"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14025,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14025,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14024,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator4"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14176,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14176,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14175,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator5"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14344,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14344,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14343,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator6"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14530,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14530,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14529,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator7"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14733,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14733,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14732,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator8"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(14955,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(14955,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(14954,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator9"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15194,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15194,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15193,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductGenerator10"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15459,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15459,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15454,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder2"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15481,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15481,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15475,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder3"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15506,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15506,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15500,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder4"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15533,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15533,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15527,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder5"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15564,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15564,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15556,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder6"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15597,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15597,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15589,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder7"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15635,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15635,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15626,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder8"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15676,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15676,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15666,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder9"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(15720,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(15720,35):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(15710,7):
+  	при компиляции шаблона класса "testing::internal::CartesianProductHolder10"
+  
+C:\Users\serge\source\repos\Trans\gtest\gtest.h(10020,30): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to suppress this warning.
+  (компиляция исходного файла "../test/test_retr.cpp")
+  C:\Users\serge\source\repos\Trans\gtest\gtest.h(10020,30):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\gtest\gtest.h(9691,3):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void testing::internal::PrintTupleTo<std::tuple<>>(const T &,std::ostream *)"
+          with
+          [
+              T=std::tuple<>
+          ]
+  
+  Analizer.cpp
+  Calc.cpp
+C:\Users\serge\source\repos\Trans\include\stack.h(90,11): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Calc.cpp")
+  C:\Users\serge\source\repos\Trans\include\stack.h(90,11):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\sln\Calc.cpp(4,14):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "stack<double>"
+  	C:\Users\serge\source\repos\Trans\include\stack.h(88,7):
+  	во время компиляции функции-члена класс шаблон "void stack<double>::repack(void)"
+  		C:\Users\serge\source\repos\Trans\include\stack.h(66,16):
+  		см. первую ссылку на "stack<double>::repack" в "stack<double>::push"
+  		C:\Users\serge\source\repos\Trans\sln\Calc.cpp(10,27):
+  		см. первую ссылку на "stack<double>::push" в "Calc::counting"
+  
+  Lexemes.cpp
+  PolishE.cpp
+C:\Users\serge\source\repos\Trans\sln\PolishE.cpp(16,69): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\Trans\include\stack.h(90,11): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "PolishE.cpp")
+  C:\Users\serge\source\repos\Trans\include\stack.h(90,11):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\serge\source\repos\Trans\include\PolishE.h(24,19):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "stack<double>"
+  	C:\Users\serge\source\repos\Trans\include\stack.h(88,7):
+  	во время компиляции функции-члена класс шаблон "void stack<double>::repack(void)"
+  		C:\Users\serge\source\repos\Trans\include\stack.h(66,16):
+  		см. первую ссылку на "stack<double>::repack" в "stack<double>::push"
+  		C:\Users\serge\source\repos\Trans\sln\PolishE.cpp(21,23):
+  		см. первую ссылку на "stack<double>::push" в "Poliz::toPolish"
+  
+  Table.cpp
+C:\Users\serge\source\repos\Trans\sln\Table.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\Trans\sln\Table.cpp(94,10): warning C4244: *=: преобразование "double" в "size_t", возможна потеря данных
+  Trans.cpp
+  Создание кода...
+C:\Users\serge\source\repos\Trans\sln\Trans.cpp(22,1): warning C4717: expression::newExpr: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+C:\Users\serge\source\repos\Trans\sln\Table.cpp(46,1): warning C4715: Table::SearchValue: значение возвращается не при всех путях выполнения
+C:\Users\serge\source\repos\Trans\sln\Table.cpp(91,1): warning C4715: Table::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\serge\source\repos\Trans\sln\Lexemes.cpp(40,1): warning C4715: Lexemes::createLex: значение возвращается не при всех путях выполнения
+C:\Users\serge\source\repos\Trans\sln\Calc.cpp(37,1): warning C4715: Calc::Operator: значение возвращается не при всех путях выполнения
+test_main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  test_utmatrix.vcxproj -> C:\Users\serge\source\repos\Trans\sln\Debug\test_transl.exe

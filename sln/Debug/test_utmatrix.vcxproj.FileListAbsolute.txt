@@ -1,0 +1,3 @@
+C:\Users\serge\source\repos\mp2-lab2-matrix\sln\Debug\test_utmatrix.exe
+C:\Users\serge\source\repos\Retr\sln\Debug\test_transl.exe
+C:\Users\serge\source\repos\Trans\sln\Debug\test_transl.exe
